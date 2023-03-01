@@ -1,0 +1,17 @@
+{
+  "name": "scraping",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Scraping Surverymonkey because they charge extortionate prices",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/puppeteer": "^5.4.6",
+    "puppeteer": "^16.1.0"
+  }
+}
