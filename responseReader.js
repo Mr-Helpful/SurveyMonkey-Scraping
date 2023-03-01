@@ -5,8 +5,7 @@ import * as fs from 'fs/promises'
  * @typedef {import('puppeteer').ElementHandle} ElementHandle
  */
 
-const url =
-  'https://www.surveymonkey.com/analyze/browse/HDw_2Ft6GBCi_2Bp4e2Gb2TjSFktp0LPOfSsykBdgl4CNOY_3D?'
+const url = 'your-own-url-here'
 
 const responseOffset = 0
 
